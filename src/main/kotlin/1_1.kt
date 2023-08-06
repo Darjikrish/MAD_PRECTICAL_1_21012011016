@@ -1,0 +1,19 @@
+fun main(){
+    var a=11
+    var b=10.554545545
+    var c=5.56
+    var d=564654567446
+    var e=893
+    var f=36
+    var g='x'
+    var h=true
+    var i="hello"
+    println("Integer Value:$a")
+    println("Double Value:$b")
+    println("Float Value:$c")
+    println("Long Value:$d")
+    println("Short Value:$e")
+    println("Byte Value:$f")
+    println("Character Value:$g")
+    println("Boolean Value:$h")
+    println("String Value:$i")}
